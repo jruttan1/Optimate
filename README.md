@@ -1,4 +1,4 @@
-# 🌐 Optimate  
+# Optimate  
 
 [![Deployed on Vercel](https://img.shields.io/badge/Live%20Demo-Vercel-blue?logo=vercel)](https://optimate-two.vercel.app/) 
 
@@ -8,7 +8,7 @@ https://github.com/user-attachments/assets/e16653b8-a15a-481d-a4b2-122dfcbfecd0
 
 ---
 
-## 🚀 Elevator Pitch  
+## Elevator Pitch  
 
 **“Optimate: AI dashboards, insights, and reinforcement learning for smarter underwriting.”**  
 
@@ -16,7 +16,7 @@ Optimate reimagines the underwriting process by blending **AI, reinforcement lea
 
 ---
 
-## ✨ Features  
+## Features  
 
 - **Top Matches** → View the top 10 submissions that best align with appetite guidelines.  
 - **Explainability** → Get detailed AI-driven justifications for why a policy is prioritized.  
@@ -27,7 +27,7 @@ Optimate reimagines the underwriting process by blending **AI, reinforcement lea
 
 ---
 
-## 🏗️ How We Built It  
+## How We Built It  
 
 - **Frontend & Deployment**:  
   - [Next.js (App Router)](https://nextjs.org/) + [TailwindCSS](https://tailwindcss.com/) + [shadcn/ui](https://ui.shadcn.com/)  
@@ -54,7 +54,7 @@ Optimate reimagines the underwriting process by blending **AI, reinforcement lea
 
 ---
 
-## 💡 Inspiration  
+## Inspiration  
 
 We were inspired by Federato’s challenge:  
 
@@ -64,7 +64,7 @@ Underwriters often juggle complex and conflicting factors like TIV, loss ratios,
 
 ---
 
-## ⚔️ Challenges We Ran Into  
+## Challenges We Ran Into  
 
 - Understanding new insurance/underwriting concepts like **TIV, appetite guidelines, and loss ratios**.  
 - Handling **merge conflicts** in a 4-dev hackathon team under time pressure.  
@@ -74,7 +74,7 @@ Underwriters often juggle complex and conflicting factors like TIV, loss ratios,
 
 ---
 
-## 🏆 Accomplishments  
+## Accomplishments  
 
 - Delivered a **production-ready product** within the hackathon timeframe.  
 - Rapidly learned and integrated **CohereAI, Auth0, DynamoDB, and shadcn/ui**.  
@@ -83,7 +83,7 @@ Underwriters often juggle complex and conflicting factors like TIV, loss ratios,
 
 ---
 
-## 📚 What We Learned  
+## What We Learned  
 
 - Clear **team communication** is crucial under time pressure.  
 - How to design and deploy a **RAG pipeline with Cohere**.  
@@ -93,7 +93,7 @@ Underwriters often juggle complex and conflicting factors like TIV, loss ratios,
 
 ---
 
-## 🔮 What’s Next  
+## What’s Next  
 
 - **Deeper AI** → Fine-tune LLMs for nuanced underwriting strategies.  
 - **Dynamic Data Feeds** → Add weather, property valuation, and catastrophe models.  
@@ -117,6 +117,6 @@ Underwriters often juggle complex and conflicting factors like TIV, loss ratios,
 
 ---
 
-## 🙌 Team  
+## Team  
 
-Built with 💡, ☕, and teamwork by four developers at **Hack the North 2025**.  
+Built with ☕ and teamwork by four developers at **Hack the North 2025**.  
